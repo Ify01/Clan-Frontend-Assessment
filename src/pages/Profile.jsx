@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 const PersonalInfo = () => {
@@ -48,7 +48,7 @@ const PersonalInfo = () => {
       <form onSubmit={handleSubmit} className="flex flex-col">
         <div className="form-wrapper flex flex-col relative">
           <label className="text-primary-marineBlue font-[500] mb-2">
-           Your Name
+            Your Name
           </label>
           <input
             onChange={(e) => setName(e.target.value)}

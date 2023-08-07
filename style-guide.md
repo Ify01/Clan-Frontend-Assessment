@@ -17,6 +17,7 @@ The designs were created to the following widths:
 - Light blue: hsl(206, 94%, 87%)
 - Strawberry red: hsl(354, 84%, 57%)
 
+
 ### Neutral
 
 - Cool gray: hsl(231, 11%, 63%)

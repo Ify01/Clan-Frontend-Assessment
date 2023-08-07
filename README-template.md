@@ -23,7 +23,6 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 ### The challenge
 
 Users should be able to:
-
 - Complete each step of the sequence
 - Go back to a previous step to update their selections
 - See a summary of their selections on the final step and confirm their order
