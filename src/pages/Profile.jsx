@@ -43,7 +43,7 @@ const PersonalInfo = () => {
         Personal information
       </h1>
       <p className="text-neutral-coolGray mb-6">
-        Please provide your name, email address, and phone number.
+        Please provide your Name, Email address, and Phone number.
       </p>
       <form onSubmit={handleSubmit} className="flex flex-col">
         <div className="form-wrapper flex flex-col relative">
